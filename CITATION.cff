@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you discuss or build upon the Bibliocrunch method, cite this software and its author."
+title: "Bibliocrunch: Numerical Hermeneutics Workbench"
+type: software
+version: 0.1.0-alpha
+date-released: 2026-08-03
+authors:
+  - family-names: Mahl
+    given-names: Christopher W.
+abstract: "A deterministic apparatus for folding Biblical address and numeric structures into explorable geometry and generated reading paths."
+
